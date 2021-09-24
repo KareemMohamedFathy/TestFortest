@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "865341204741",
+    "firebase_url": "https://niceandsimple-88142-default-rtdb.firebaseio.com",
+    "project_id": "niceandsimple-88142",
+    "storage_bucket": "niceandsimple-88142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865341204741:android:f0232e80791af1c6082f6c",
+        "android_client_info": {
+          "package_name": "com.mindorks.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865341204741-k93si5hf6vsauk5vgdbsh53fbhg7kgv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkyosZPVev1_yRbUcyHx0HfUSU6-wuZeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865341204741-k93si5hf6vsauk5vgdbsh53fbhg7kgv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865341204741:android:f5e8bca8c54fcec0082f6c",
+        "android_client_info": {
+          "package_name": "com.mindorks.niceandsimple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865341204741-k93si5hf6vsauk5vgdbsh53fbhg7kgv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkyosZPVev1_yRbUcyHx0HfUSU6-wuZeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865341204741-k93si5hf6vsauk5vgdbsh53fbhg7kgv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
